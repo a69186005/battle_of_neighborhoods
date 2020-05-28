@@ -1858,7 +1858,7 @@ for lat, lng, suburb, price in zip(suburb_scc['Latitude'], suburb_scc['Longitude
     
 map_sydney
 ```
-<img src="./1.png" height="300" width="300">
+<img src="./1.png" height="300" width="600">
 
 
 
@@ -7655,7 +7655,7 @@ for lat, lon, poi, cluster, price in zip(sydney_merged['Latitude'], sydney_merge
        
 map_clusters
 ```
-<img src="./2.png" height="300" width="300">
+<img src="./2.png" height="300" width="600">
 
 
 ```python
